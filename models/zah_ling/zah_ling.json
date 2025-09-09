@@ -3,7 +3,7 @@
   "wake_word": "zah ling",
   "author": "Dattogs",
   "website": "https://github.com/Dattogs/wakeword",
-  "model": "https://github.com/Dattogs/wakeword/blob/main/models/zah_ling/zah_ling.tflite",
+  "model": "https://raw.githubusercontent.com/Dattogs/wakeword/main/models/zah_ling.tflite",
   "version": 2,
   "micro": {
     "probability_cutoff": 0.97,
