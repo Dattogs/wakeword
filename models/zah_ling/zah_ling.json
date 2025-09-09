@@ -2,8 +2,8 @@
   "type": "micro",
   "wake_word": "zah ling",
   "author": "Dattogs",
-  "website": "https://github.com/Dattogs/wakeword",
-  "model": "https://raw.githubusercontent.com/Dattogs/wakeword/main/models/zah_ling.tflite",
+  "website": "https://github.com/Dattogs/wakeword/",
+  "model": "models/zah_ling.tflite",
   "version": 2,
   "trained_languages": ["vi"],
   "micro": {
